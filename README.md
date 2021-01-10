@@ -9,5 +9,5 @@ $ Python Network_Simulation.py
 Note: 
 The projet only uses a static network. The Attack is always selected to be one of the "Ending Nodes" this is to be able to 
 reconstruct a longer path and have a better visual of how the sampling algorithms work. Once all network simultions variables are
-selected the project will display an image of the static network, the statistics of the seperate Traceback mechanism, and 
+selected the project will display an image of the static network, the statistics of the separate traceback mechanism, and 
 lastly the reconstructed network path leading from the victim node to the attacker node. 
